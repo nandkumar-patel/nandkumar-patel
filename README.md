@@ -1,10 +1,6 @@
 <h1>Hi 👋, I'm Nandkumar Patel</h1>
 
 
-
-
-
-
 <p>An aspiring IT Support Specialist skilled in Intune, AD, and Azure | CompTIA A+ Certified</p>
 
 <h2>🚀 Languages and Tools I Use</h2>
