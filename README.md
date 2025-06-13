@@ -28,9 +28,9 @@
 
 <h2>📁 Projects</h2>
 <ul>
-  <li><strong>Windows Active Directory Implementation</strong>: Implemented Group Policies and automated user account management processes, reducing admin workload by 20%.</li>
-  <li><strong>Enterprise Network Setup and Security</strong>: Built LAN/WAN infrastructure and automated firewall scripts, improving connectivity and reducing security incidents by 20%.</li>
-  <li><strong>Cloud-Based Database Management System</strong>: Created an Azure SQL-based system with automated maintenance, enhancing scalability and reducing downtime by 25%.</li>
+  <li><strong>Windows Active Directory Implementation</strong></li>
+  <li><strong>Enterprise Network Setup and Security</strong></li>
+  <li><strong>Cloud-Based Database Management System</strong></li>
 </ul>
 
 
